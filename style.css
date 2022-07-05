@@ -1,0 +1,41 @@
+body{
+   margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+/* Header Section CSS start*/
+#top-headline{
+    text-align: center;
+    font-size: 62px;
+    font-weight: 700;
+    color: rgb(254, 254, 254);
+    text-shadow: 2px 2px 8px #5c5b5b;
+    padding-top: 6%;
+    padding-left: 20%;
+    padding-right: 20%;
+
+}
+.donate-btn{
+color: whitesmoke;
+    text-decoration: none;
+    background-image: linear-gradient(gray, rgb(213, 104, 104));
+    padding: 20px 45px;
+    border-radius: 11px;
+    box-shadow: 4px 8px gray;
+    font-weight: 700;
+    font-size: 22px;
+    margin-top: 5%;
+}
+.header-section{
+    
+    text-align: center;
+    background-image: url(./images/donation7.jpg);
+    width: 100%;
+    height: 700px;
+    color: rgb(255, 254, 254);
+    font-weight: 700;
+    background-repeat: no-repeat;
+    padding-bottom: 1%;
+    padding-top: 5%;
+
+}
+/* Header Section CSS close*/
