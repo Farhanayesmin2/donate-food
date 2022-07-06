@@ -39,3 +39,36 @@ color: whitesmoke;
 
 }
 /* Header Section CSS close*/
+/* Donate Section CSS start*/
+#paragraph{
+    text-align: center;
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-top: 4%;
+}
+.headline-money{
+    
+    font-size: 39px;
+}
+/* Donate Section CSS close*/
+.dollar-donate{
+  
+    display: flex;
+   text-align: center;
+   padding-left: 20%;
+   padding-right: 60%;
+   font-size: 25px;
+    
+}
+.donate-now{
+    background-color: #e2dfdf;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.fifty-color{
+border: 3px solid rgb(77, 6, 6);
+color: rgb(77, 6, 6);
+background-color: rgb(227, 147, 147);
+}
