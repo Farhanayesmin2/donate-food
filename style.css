@@ -8,7 +8,6 @@ body{
     font-size: 62px;
     font-weight: 700;
     color: rgb(254, 254, 254);
-    text-shadow: 2px 2px 8px #5c5b5b;
     padding-top: 6%;
     padding-left: 20%;
     padding-right: 20%;
@@ -146,9 +145,10 @@ text-align: center;
 }
 #mail-btn{
 background-color: rgb(224, 15, 15);
-padding: 6px 9px;
+padding: 7px 9px;
 color: aliceblue;
-font-weight: 500;
+font-weight: 510;
+margin-left: -5px;
 
 
 }
@@ -167,6 +167,42 @@ footer h1{
     padding-top: 10px;
     color: rgb(181, 0, 30);
     font-style: italic;
+
+}
+#google{
+font-size: 58px;
+text-align: center;
+margin-bottom: auto;
+
+}
+.searching input{
+    margin-top: 1px;
+    width: 650px; 
+    height: 45px;
+    border-radius: 20px;
+    border-color: rgba(3, 53, 233, 0.483);
+  box-shadow: 5px 5px gray;
+   outline-color: rgb(222, 222, 222);
+
+}
+.social{
+    
+    text-align: center;
+}
+.fa-facebook{
+    padding: 4px 5px;
+    height: 50px;
+
+    width: 50px;
+    border-radius: 50px;
+}
+#google-feel{
+margin-right: 10px;
+text-decoration: none;
+padding: 5px 5px;
+background-color: rgba(213, 221, 221, 0.272);
+color: rgb(90, 87, 87);
+
 
 }
 
