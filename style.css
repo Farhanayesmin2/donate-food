@@ -90,6 +90,7 @@ display: flex;
 padding-left: 7%;
 padding-right: 7%;
 justify-content: space-around;
+margin-bottom: 5%;
 
 }
 .plan-1{
@@ -116,7 +117,7 @@ padding-left: 10px;
 padding-right: 10px;
 margin-left: 10px;
 margin-right: 10px;
-background-color: rgb(136, 128, 143);
+background-color: rgb(136, 133, 138);
 box-shadow:5px 10px rgb(49, 48, 48);
     }
     .cloth{
@@ -124,6 +125,22 @@ box-shadow:5px 10px rgb(49, 48, 48);
         padding-right: 10px;
         margin-left: 10px;
         box-shadow:5px 10px rgb(49, 48, 48);
-        background-color: rgb(190, 214, 211);
-            }
+        background-color: rgb(213, 104, 104);
+     }
+
+footer{
+
+text-align: center;
+background-color: black;
+height: 200px;
+color: #e2dfdf;
+
+}
+footer h1{
+    padding-top: 10px;
+    color: rgb(255, 4, 46);
+
+}
+
+
         
