@@ -77,8 +77,6 @@ background-color: rgb(227, 147, 147);
 #input-money{
     padding-top: 2%;
   text-align: center;
-
-
 }
 #text-field{
     border: none;
@@ -167,7 +165,8 @@ color: #e2dfdf;
 }
 footer h1{
     padding-top: 10px;
-    color: rgb(255, 4, 46);
+    color: rgb(181, 0, 30);
+    font-style: italic;
 
 }
 
