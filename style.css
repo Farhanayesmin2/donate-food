@@ -39,7 +39,7 @@ color: whitesmoke;
 
 }
 /* Header Section CSS close*/
-/* Donate Section CSS start*/
+/* Donate Section paragraph start*/
 #paragraph{
     text-align: center;
     padding-left: 30%;
@@ -50,7 +50,8 @@ color: whitesmoke;
     
     font-size: 39px;
 }
-/* Donate Section CSS close*/
+/* Donate Section paragraph close*/
+/* Donate box start*/
 .dollar-donate{
   
     display: flex;
@@ -71,4 +72,15 @@ color: whitesmoke;
 border: 3px solid rgb(77, 6, 6);
 color: rgb(77, 6, 6);
 background-color: rgb(227, 147, 147);
+}
+/* Donate box close*/
+#input-money{
+    padding-top: 2%;
+  text-align: center;
+
+
+}
+input{
+    border: none;
+    outline: none;
 }
