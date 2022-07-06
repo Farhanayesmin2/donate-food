@@ -80,17 +80,18 @@ background-color: rgb(227, 147, 147);
 
 
 }
-input{
+#text-field{
     border: none;
     outline: none;
 }
+/*Planing Section Start*/
 .main-plan{
 
 display: flex;
 padding-left: 7%;
 padding-right: 7%;
 justify-content: space-around;
-margin-bottom: 5%;
+
 
 }
 .plan-1{
@@ -127,7 +128,35 @@ box-shadow:5px 10px rgb(49, 48, 48);
         box-shadow:5px 10px rgb(49, 48, 48);
         background-color: rgb(213, 104, 104);
      }
+     /*Planing Section close*/
+     /* Mail Box section Start..*/
+#email{
+height: 30px;
+width: 180px;
+text-align: center;
 
+}
+#email-box{
+    padding-top: 5%;
+    height: 100px;
+    width: 290px;
+    background-color: rgb(248, 214, 214);
+   margin-left: 30%;
+   margin-right: 30%;
+   padding-left: 10%;
+   padding-right: 10%;
+}
+#mail-btn{
+background-color: rgb(224, 15, 15);
+padding: 6px 9px;
+color: aliceblue;
+font-weight: 500;
+
+
+}
+  /* Mail Box section close..*/
+
+/* Footer Section..*/
 footer{
 
 text-align: center;
